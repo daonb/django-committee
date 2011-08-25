@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-22 22:53+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ofri Raviv <ofri.raviv@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: static/js/bars.js:5
+msgid "Extremely below average"
+msgstr "נמוך מאוד"
+
+#: static/js/bars.js:7
+msgid "Below average"
+msgstr "נמוך"
+
+#: static/js/bars.js:9
+msgid "Average"
+msgstr "ממוצע"
+
+#: static/js/bars.js:11
+msgid "Above average"
+msgstr "גבוה"
+
+#: static/js/bars.js:13
+msgid "Extremely above average"
+msgstr "גבוה מאוד"
+
+#: static/js/bars.js:15
+msgid "Percentile"
+msgstr "אחוזון"
+
+#: static/js/base.js:103
+msgid "Loading..."
+msgstr "טוען..."
+
+#: static/js/base.js:132
+msgid "more"
+msgstr "עוד"
+
+#: static/js/committeemeeting_detail.js:4
+msgid "Annotate"
+msgstr "האירו"
+
+#: static/js/committeemeeting_detail.js:48
+msgid "Sorry, only logged users can annotate."
+msgstr "מצטער, רק משתמשים יכולים להאיר"
+
+#: static/js/committeemeeting_detail.js:75
+msgid "Please make a selection."
+msgstr "אנא סמנו את הקטע אליו מתייחסת ההארה"
+
+#: static/js/committeemeeting_detail.js:85
+msgid "Cancel"
+msgstr "בטל"
+
+#: static/js/committeemeeting_detail.js:108
+msgid "Delete can not be un-done. Are you sure?"
+msgstr "לא ניתן לבטל מחיקה, האם אתה בטוח?"
+
+#: static/js/flot_graphs.js:23
+msgid "Factional discipline"
+msgstr "משמעת סיעתית"
+
+#: static/js/flot_graphs.js:24
+msgid "service time"
+msgstr "זמן בכנסת"
+
+#: static/js/states.js:9
+msgid "members"
+msgstr "ח\"כים"
+
+#: static/js/states.js:24
+#: static/js/states.js.py:59
+msgid "votes"
+msgstr "הצבעות"
+
+#: static/js/states.js:95
+msgid "parties"
+msgstr "מפלגות"
+
+#: static/js/states.js:111
+msgid "about"
+msgstr "אודות"
+
+#~ msgid "Choose all"
+#~ msgstr "בחר הכל"
+#~ msgid "Add"
+#~ msgstr "הוסיפו"
+#~ msgid "Remove"
+#~ msgstr "הסר"
+#~ msgid "Now"
+#~ msgstr "עכשיו"
+#~ msgid "Midnight"
+#~ msgstr "חצות"
+#~ msgid "Noon"
+#~ msgstr "צהריים"
+#~ msgid "no more"
+#~ msgstr "אין עוד"
+#~ msgid "law-approve"
+#~ msgstr "אישור חוק"
+
